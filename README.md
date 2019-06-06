@@ -117,6 +117,7 @@ If you plan to use Nightscout, we recommend using [Heroku](http://www.nightscout
 [switch from Azure to Heroku](http://openaps.readthedocs.io/en/latest/docs/While%20You%20Wait%20For%20Gear/nightscout-setup.html#switching-from-azure-to-heroku) )
 - Linux based install (Debian, Ubuntu, Raspbian) install with own Node.JS and MongoDB install (see software requirements below)
 - Windows based install with own Node.JS and MongoDB install (see software requirements below)
+- Nightscout with MongoDB Atlas and Google App Engine (TO BE LINKED)
 
 Minimum browser requirements for viewing the site:
 
